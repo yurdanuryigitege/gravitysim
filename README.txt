@@ -1,0 +1,1 @@
+This is a learning project for classes funcitons and basic usage of numpy, it took me about 10 days to code and thougth me the subject I wanted to learn,general information about projects capabilities : Newtonian 2D Gravity Simulator for 2 body
